@@ -15,8 +15,12 @@ I'm deeply passionate about **cybersecurity**, **ethical hacking**, and protecti
 ---
 
 ## 🛠️ Tools & Tech I Use
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-004475?style=for-the-badge&logo=nmap&logoColor=white)
+
+(Also familiar with: Java, C, and basic scripting)
 
 
 ---
