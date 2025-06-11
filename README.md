@@ -18,15 +18,6 @@ I'm deeply passionate about **cybersecurity**, **ethical hacking**, and protecti
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
----
-
-## 🧠 Current Projects & Learning
-- 🔍 **Recon Scripts in Python** – Automating OSINT and target scanning
-- ⚔️ **CTF Writeups** – Sharing walkthroughs from TryHackMe and Hack The Box
-- 🔐 **Vulnerability Lab** – Testing and documenting known CVEs on virtual machines
-- 🛡️ **Basic Firewall/IDS Simulation** – Learning how detection systems work internally
-
-
 
 ---
 
