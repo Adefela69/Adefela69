@@ -1,6 +1,6 @@
 # 🛡️ Hi, I'm Adefela Shittu
 
-🚀 Aspiring Cybersecurity Analyst | 🕵️ Ethical Hacking Enthusiast | 💻 Tech-Driven Problem Solver
+🚀 Cybersecurity Analyst | 🕵️ Ethical Hacking Enthusiast | 💻 Tech-Driven Problem Solver
 
 I'm deeply passionate about **cybersecurity**, **ethical hacking**, and protecting digital assets in an increasingly connected world. As I build my career in cybersecurity, I'm learning hands-on tools, capturing flags, breaking things (ethically!), and staying updated with the latest exploits, frameworks, and defensive strategies.
 
